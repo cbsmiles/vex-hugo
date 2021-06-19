@@ -6,7 +6,7 @@ theme = "vex-hugo"
 title = "CryingBaby Watchies"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed & Developed By CryingBaby Designs\n@copyrights 2021 CryingBaby India Pvt. Ltd"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
